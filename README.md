@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saromany
-- 👀 I’m interested in frontEnd developments, as well as python, C#, JAVA and a bit of other Lang
+- 👀 I’m interested in frontEnd developments, as well as python, C#, and JAVA
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on - anything really
+- 💞️ I’m looking to collaborate on - Earth
 - 📫 How to reach me - sharonon@gmail.com
 
 <!---
